@@ -1,0 +1,12 @@
+# In this folder you will find the following files:
+- The documentation of the project named me2030-english.pdf.
+- Photos related to the presentation of the mobile application
+
+#You can download the dataset from here:
+https://drive.google.com/file/d/1ZMgUQkwNqvMrZ8QaQmSbiDqXOWAewwou/view
+
+
+# IOS App Run Instructions
+- To run the iOS App you must have a mac computer with xcode installed
+- you must also have the pods installed on your computer
+- and execute the pod install command in the project folder from the terminal
